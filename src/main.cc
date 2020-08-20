@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout<<"Holamundo";
-std::cin.get();
+    std::cout<<"Hola mundo y todos quienes lo habitan ahora";
+    std::cin.get();
     return 0;
 }
